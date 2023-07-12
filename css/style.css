@@ -435,6 +435,9 @@ button {
     width: 100%;
     float: left;
     text-align: center;
+    width: 100%;
+   height: auto;
+   max-width: 100%;
 }
 
 .btn_main {
